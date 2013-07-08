@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "app.js",
+  "sourceRoot": "../../Library/Application Support/Sublime Text 3/Packages",
+  "sources": [
+    "../../../../src/node-onkyo/app.coffee"
+  ],
+  "names": [],
+  "mappings": ";AAAA,IAAA,eAAA;;AAAA,CAAA,EAAU,IAAV,EAAU;;AACV,CADA,EACQ,EAAR,EAAQ,QAAA;;AACR,CAFA,EAEA,IAAM;;AAEN,CAJA,CAIiC,CAA9B,MAA+B,cAAlC;CAEE,KAAA,sBAAA;CAAA,CAAA,CAAS,GAAT;CAAA,CACA,CAAO,CAAP,EAAa,CADb;CAAA,CAEA,CAAU,CAAA,EAAa,CAAvB;CAFA,CAKA,CAAQ,EAAR,EAAsC,eAA9B;CAEF,CAAN,CAAwB,CAAA,CAAnB,CAAO,GAAZ;CAAsC,EAAD,CAAH,OAAA;CAAlC,EAAwB;CATO;;AAWjC,CAfA,CAea,CAAV,MAAW;CAAiB,EAAD,CAAH,KAAA,IAAA;CAAd;;AAEb,CAjBA,EAiBG,CAAH,EAAA"
+}
